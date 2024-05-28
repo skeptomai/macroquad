@@ -1,3 +1,4 @@
+#![allow(unused)]
 //! Legacy module, code should be either removed or moved to different modules
 
 use miniquad::*;

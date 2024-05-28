@@ -1,4 +1,5 @@
 //! Loading and playing sounds.
+#![allow(dead_code)]
 
 use crate::{file::load_file, get_context, Error};
 use std::sync::Arc;

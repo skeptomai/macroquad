@@ -1,3 +1,4 @@
+#![allow(unused)]
 use std::{any::Any, marker::PhantomData, ops::Drop};
 
 use crate::camera::Camera2D;
